@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d172848d4d4b75bc15904bd4e93912, type: 3}
+  m_Name: CubeDatabase
+  m_EditorClassIdentifier: 
+  _cubeUiPrefab: {fileID: 3272871588423752237, guid: 817661432ee636f47b00a7c5e1670198, type: 3}
+  _cubePrefab: {fileID: 4981397827934623602, guid: 1189466f01473db4bbca1a6a36d15ef2, type: 3}
+  _dragDelay: 0.2
+  _distanceBetweenCube: 1
+  _verticalDistanceBetweenCube: 1.5
+  _cubeConfigs:
+  - _cubeSprite: {fileID: 178481665, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -2056860160, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 805997289, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1108014488, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -476236459, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -497648090, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1696066352, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 2132938762, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 812531834, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1006134243, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1663108042, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -370651239, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 1059568652, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 508839501, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -2055408237, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1823663610, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1967560000, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 785700934, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: 1327007078, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
+  - _cubeSprite: {fileID: -1115519746, guid: 93649fa932cc4a54ca69bc0b36a03426, type: 3}
