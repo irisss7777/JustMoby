@@ -35,11 +35,22 @@
 Весь проект построен на внедрении зависимостей через Zenject. Инсталлеры разделены по слоям, что позволяет легко подменять реализации при тестировании или расширении функциональности.
 
 Assets/
-├── Content/
+├── _Source/
+
 │   ├── Application/       # Use cases, Service
+
 │   ├── Contracts/         # Интерфейсы-прокладки(разделены на Application contracts и Presentation contracts)
+
 │   ├── Domain/            # Модели
+
 │   ├── Infrastructure/    # Database, Factory, Installers, Bootstrapper
+
 │   ├── Presentation/      # UI, View, Presenters, подписчики событий
+
 │   └── Utils/             # Утилити Service и UseCase
-└── ...
+
+└── Content/...
+
+│
+
+└── Plugins/...
