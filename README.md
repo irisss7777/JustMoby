@@ -38,17 +38,17 @@ Assets/
 
 ├── _Source/
 
-│   ├── Application/       # Use cases, Service
+│     ├── Application/       # Use cases, Service
 
-│   ├── Contracts/         # Интерфейсы-прокладки(разделены на Application contracts и Presentation contracts)
+│     ├── Contracts/         # Интерфейсы-прокладки(разделены на Application contracts и Presentation contracts)
 
-│   ├── Domain/            # Модели
+│     ├── Domain/            # Модели
 
-│   ├── Infrastructure/    # Database, Factory, Installers, Bootstrapper
+│     ├── Infrastructure/    # Database, Factory, Installers, Bootstrapper
 
-│   ├── Presentation/      # UI, View, Presenters, подписчики событий
+│     ├── Presentation/      # UI, View, Presenters, подписчики событий
 
-│   └── Utils/             # Утилити Service и UseCase
+│     └── Utils/             # Утилити Service и UseCase
 
 └── Content/...
 
